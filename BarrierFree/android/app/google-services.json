@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428707641911",
+    "project_id": "cando-34138",
+    "storage_bucket": "cando-34138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428707641911:android:2b1126942cefe24abb1db2",
+        "android_client_info": {
+          "package_name": "com.example.can_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428707641911-3q85pg01ici4t2clb2voq3blqec0jf52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3N8J0NZG0OdqjWON7CIbFhFPt_BdUPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428707641911-3q85pg01ici4t2clb2voq3blqec0jf52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,6 @@
-import 'package:can_do/main.dart';
+import 'package:can_do/myword.dart';
 import 'package:flutter/material.dart';
+import 'onboarding.dart';
 
 void main() => runApp(MyApp());
 
